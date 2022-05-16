@@ -10,7 +10,7 @@ I'm Shirley Nohely, systems engineer 👩‍💻 with experience in IT project m
 - Bootstrap 5
 - Javascript Vanilla
 - GIT
--
+
 📖 Learning:
 - React JS
 - C# .Net Backend
