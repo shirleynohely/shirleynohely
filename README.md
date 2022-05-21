@@ -13,5 +13,5 @@ I'm Shirley Nohely, systems engineer 👩‍💻 with experience in IT project m
 
 📖 Learning:
 - React JS
-- C# .Net Backend at #Alkemy
+- C# .Net (Backend) at #Alkemy
 - RPA: Automation Anywhere, UIPATH
