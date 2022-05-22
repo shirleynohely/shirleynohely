@@ -5,7 +5,7 @@
 </a>
 
 <br />
-
+<br />
 I'm Shirley Nohely, systems engineer 👩‍💻 with experience in IT project management, innovation management and process improvement.
 🚀 Passionate about software development, I'm training as a Frontend Web Developer at #CoderHouse and actively learning different programming skills to enhance my technical level, continue to grow in this field and add value in the creation of innovative products.
 
