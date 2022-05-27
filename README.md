@@ -6,8 +6,8 @@
 
 <br />
 <br />
-I'm Shirley Nohely, systems engineer 👩‍💻 with experience in IT project management, innovation management and process improvement.
-🚀 Passionate about software development, I'm training as a Frontend Web Developer at #CoderHouse and actively learning different programming skills to enhance my technical level, continue to grow in this field and add value in the creation of innovative products.
+I'm Shirley Nohely, a systems engineer 👩‍💻 with experience in IT project management, innovation management and process improvement.
+🚀 Passionate about software development, I'm training as a Frontend Web Developer and actively learning different programming skills to enhance my technical level, continue to grow in this field and add value in the creation of innovative products.
 
 💻 Skills:
 - Ms. Power Platform: Power Apps, Power Automate
@@ -19,5 +19,5 @@ I'm Shirley Nohely, systems engineer 👩‍💻 with experience in IT project m
 
 📖 Learning:
 - React JS
-- C# .Net (Backend) at #Alkemy
+- C# .Net (Backend) 
 - RPA: Automation Anywhere, UIPATH
