@@ -10,14 +10,14 @@ I'm Shirley Nohely, a systems engineer 👩‍💻 with experience in IT project
 🚀 Passionate about software development, I'm training as a Frontend Web Developer and actively learning different programming skills to enhance my technical level, continue to grow in this field and add value in the creation of innovative products.
 
 💻 Skills:
-- Ms. Power Platform: Power Apps, Power Automate
-- Ms. Sharepoint
-- HTML, CSS3, SASS
-- Bootstrap 5
-- Javascript Vanilla
-- GIT
+- Ms. Power Platform: `Power Apps`, `Power Automate`
+- `Ms. Sharepoint`
+- `HTML`, `CSS3`, `SASS`
+- `Bootstrap 5`
+- `Javascript Vanilla`
+- `GIT`
 
 📖 Learning:
-- React JS
-- C# .Net (Backend) 
-- RPA: Automation Anywhere, UIPATH
+- `React JS`
+- `C# .Net (Backend)` 
+- RPA: `Automation Anywhere`, `UIPATH`
