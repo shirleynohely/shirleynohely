@@ -26,6 +26,4 @@ Ms. Power Platform: `Power Apps`, `Power Automate` </BR>
   
 RPA: `Automation Anywhere`, `UIPATH`
 
-📄 Know about my experiences: [CV - Shirley-Ramos-de-Rosas-IT.pdf](https://github.com/shirleynohely/shirleynohely/files/8788529/CV.-.Shirley-Ramos-de-Rosas-IT.pdf)
-
 
